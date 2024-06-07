@@ -1,1 +1,4 @@
 put unity project files here
+Rendering API :: Vulcan (Vulcan performs superior to openGL, occasionally better than microsoft DirectX, and works on all platforms (excluding apple devices))
+Platform support: Windows, Linux, Android(planned when mobile controlls can be implemented)
+apple devices will not be supported as compiling for apple platforms requires a mac device, and an apple developer permit (USD 100$ subscription)
